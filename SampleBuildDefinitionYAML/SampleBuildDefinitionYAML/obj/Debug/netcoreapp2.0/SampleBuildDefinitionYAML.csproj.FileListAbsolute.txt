@@ -1,0 +1,11 @@
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\bin\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.deps.json
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\bin\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.runtimeconfig.json
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\bin\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.runtimeconfig.dev.json
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\bin\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.dll
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\bin\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.pdb
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\obj\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.csprojResolveAssemblyReference.cache
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\obj\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.csproj.CoreCompileInputs.cache
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\obj\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.AssemblyInfoInputs.cache
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\obj\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.AssemblyInfo.cs
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\obj\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.dll
+C:\projects\CoreCI\netcore-ci\SampleBuildDefinitionYAML\SampleBuildDefinitionYAML\obj\Debug\netcoreapp2.0\SampleBuildDefinitionYAML.pdb
